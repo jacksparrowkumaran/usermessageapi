@@ -1,0 +1,14 @@
+D:\WebService\usermessage\usermessage\bin\Debug\netcoreapp2.2\usermessage.deps.json
+D:\WebService\usermessage\usermessage\bin\Debug\netcoreapp2.2\usermessage.runtimeconfig.json
+D:\WebService\usermessage\usermessage\bin\Debug\netcoreapp2.2\usermessage.runtimeconfig.dev.json
+D:\WebService\usermessage\usermessage\bin\Debug\netcoreapp2.2\usermessage.dll
+D:\WebService\usermessage\usermessage\bin\Debug\netcoreapp2.2\usermessage.pdb
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.csprojAssemblyReference.cache
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.csproj.CoreCompileInputs.cache
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.RazorAssemblyInfo.cache
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.RazorAssemblyInfo.cs
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.AssemblyInfoInputs.cache
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.AssemblyInfo.cs
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.RazorTargetAssemblyInfo.cache
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.dll
+D:\WebService\usermessage\usermessage\obj\Debug\netcoreapp2.2\usermessage.pdb
